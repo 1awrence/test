@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c:contact c:Version="1" xmlns:c="http://schemas.microsoft.com/Contact" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:MSP2P="http://schemas.microsoft.com/Contact/Extended/MSP2P">
+	<c:CreationDate>2019-07-26T01:37:12Z</c:CreationDate><c:Extended xsi:nil="true"/>
+	<c:ContactIDCollection><c:ContactID c:ElementID="fcd7e31b-5d97-4f65-be38-68de5ca0e5e8"><c:Value>b1de71c0-833c-406d-8a66-f798c2905726</c:Value></c:ContactID></c:ContactIDCollection><c:NameCollection><c:Name c:ElementID="bb403e2f-d589-4f2d-a0c6-ec74eb498fd4"><c:FormattedName>git kraken</c:FormattedName><c:FamilyName>kraken</c:FamilyName><c:GivenName>git</c:GivenName></c:Name></c:NameCollection><c:PhotoCollection><c:Photo c:ElementID="94979679-49c0-410f-a5d1-ff0b91854a76"><c:LabelCollection><c:Label>UserTile</c:Label></c:LabelCollection></c:Photo></c:PhotoCollection></c:contact>
